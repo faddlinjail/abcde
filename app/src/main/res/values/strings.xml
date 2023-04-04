@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">abcde</string>
+    <string name="model_name">Samsung</string>
+    <string name="memory_name">64/1t</string>
+    <string name="chipset_name">snapdragonGen87</string>
+    <string-array name="merek_smartphone_txt">
+        <item>Samsung</item>
+        <item>realme</item>
+        <item>xiaomi</item>
+        <item>poco</item>
+        <item>vivo</item>
+        <item>oppo</item>
+        <item>iphone</item>
+        <item>infinix</item>
+    </string-array>
+
+    <string-array name="chipset_smartphone_txt">
+        <item>snapdragonGenerasi8</item>
+        <item>Snapdaragon728</item>
+        <item>MediatekhELIO1080</item>
+        <item>mediatekg69</item>
+        <item>snapdragon698</item>
+        <item>mediatek helio720</item>
+        <item>m1</item>
+        <item>snapdragon888</item>
+    </string-array>
+
+    <string-array name="Ram_Memory_txt">
+        <item>64/1t</item>
+        <item>24/450</item>
+        <item>12/120</item>
+        <item>8/120</item>
+        <item>8/180</item>
+        <item>6/80</item>
+        <item>6/120</item>
+        <item>4/64</item>
+    </string-array>
+
+
+</resources>
